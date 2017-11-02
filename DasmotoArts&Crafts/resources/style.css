@@ -1,0 +1,35 @@
+* {
+  font-family: Helvetica;
+}
+.image {
+  position: relative;
+  display: block;
+  width: auto;
+}
+h1 {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+#brush {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+#frame {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+#paint {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
